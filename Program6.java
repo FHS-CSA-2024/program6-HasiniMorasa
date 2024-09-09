@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 
-public class CircleCalculator {
+public class Program6 {
 
     // Define a constant for pi
     private static final double PI = 3.14159;
